@@ -10,4 +10,4 @@ Paper Icon : <i class="fa-regular fa-hand"></i>
 Rock Icon : <i class="fa-regular fa-hand-back-fist"></i>
 Scissors Icon : <i class="fa-regular fa-hand-scissors"></i>
 That's Hard but Help you Forewer <3
-
+ 
